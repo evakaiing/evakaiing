@@ -1,16 +1,29 @@
-## Hi there 👋
+## Привет! 
 
-<!--
-**evakaiing/evakaiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — студентка 2 курса **МАИ**, направление **Фундаментальная информатика и информационные технологии**.
 
-Here are some ideas to get you started:
+Моя специальность охватывает разные области IT, и я постоянно развиваюсь в новых сферах — не только в рамках вуза, но и в личных проектах.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Навыки:
+
+* **Языки программирования:** C, C++, Python, Go
+* **Веб:** HTML, CSS
+* **Дизайн и визуал:** Figma, Photoshop, Illustrator
+
+Сейчас изучаю **базы данных** и углубляюсь в разработку на **Go**. Реализую учебные проекты по структурам данных, логгерам, аллокаторам памяти и работе с длинными числами.
+
+**Цель** — выйти на стажировку и продолжить изучать новые технологии через практику.
+
+---
+
+###GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evakaiing&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evakaiing&layout=compact" alt="Top Langs" />
+</p>
+
