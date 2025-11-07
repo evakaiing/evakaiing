@@ -1,29 +1,44 @@
-## Привет! 
+## Привет! 👋
 
-Я — студентка 3 курса **МАИ**, направление Прикладная математика и информатика.
+Я — студентка **МАИ** 3 курса, направление Прикладная математика и информатика, увлеченная backend-разработкой.
 
-Моя специальность охватывает разные области IT, и я постоянно стараюсь развиваться в новых сферах не только в рамках вуза, но и в личных проектах.
+Сейчас прохожу обучение:
+- **Школа 21** - ветка Backend-разработка
+- **Курс VK** - "Разработка веб-сервисов на Golang"
+
+### Технологии и инструменты
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Также работаю с:** HTML, CSS, Figma, Photoshop, Illustrator
+
+### Сейчас изучаю
+
+- Базы данных
+- Архитектуру веб-сервисов на Go
+- REST API и микросервисы
+- CI/CD
+
+### Проекты
+
+- [Task-manager REST API](https://github.com/evakaiing/task-manager) - REST API для управления задачами на Go
+- [SearchService](https://github.com/evakaiing/search_service) - REST API для поиска и фильтрации пользователей. 
+- [Taskbot](https://github.com/evakaiing/taskbot) - Telegram-бот для работы с задачами
+- [SpamFilter Pipeline](https://github.com/evakaiing/spammer) - Распределённая обработка писем через конвейерную архитектуру
 
 
-### Навыки:
+### Цель
 
-* **Языки программирования:** C, C++, Python, Go
-* **Веб:** HTML, CSS
-* **Дизайн и визуал:** Figma, Photoshop, Illustrator
+Получить опыт на стажировке в backend-разработке и продолжить развиваться через практику в реальных проектах.
 
-Сейчас изучаю базы данных и углубляюсь в разработку на Go. Реализую учебные проекты по структурам данных, логгерам, аллокаторам памяти и работе с длинными числами.
+### Связаться со мной
 
-**Цель** — выйти на стажировку и продолжить изучать новые технологии через практику.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evakaiing)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaitovaeva@mail.ru)
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evakaiing&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evakaiing&layout=compact" alt="Top Langs" />
-</p>
-
