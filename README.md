@@ -25,11 +25,12 @@
 - CI/CD
 
 ### Проекты
-
+- [PR Reviewer Assigment Service](https://github.com/evakaiing/PR-Reviewer-Assignment-Service) - cервис автоматического назначения ревьюверов
+- [gRPC Monitoring Service](https://github.com/evakaiing/go_grpc_microservices) - монолит с микросервисной архитектурой интерфейсов на gRPC и Protocol Buffers
 - [Task-manager REST API](https://github.com/evakaiing/task-manager) - REST API для управления задачами на Go
 - [SearchService](https://github.com/evakaiing/search_service) - REST API для поиска и фильтрации пользователей. 
 - [Taskbot](https://github.com/evakaiing/taskbot) - Telegram-бот для работы с задачами
-- [SpamFilter Pipeline](https://github.com/evakaiing/spammer) - Распределённая обработка писем через конвейерную архитектуру
+- [SpamFilter Pipeline](https://github.com/evakaiing/spammer) - распределённая обработка писем через конвейерную архитектуру
 
 
 ### Цель
