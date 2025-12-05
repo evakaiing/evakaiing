@@ -34,7 +34,7 @@
 
 Получить опыт на стажировке в backend-разработке и продолжить развиваться через практику в реальных проектах.
 
-### Контакты и резюме
+### Резюме и контакты
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/87e44626ff0fbbfd4e0039ed1f4d674b6a4e72)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/evakaiing/resume/blob/main/Eva_Zaitova_Go_developer.pdf)
 
