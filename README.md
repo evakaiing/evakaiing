@@ -30,12 +30,13 @@
 - [Taskbot](https://github.com/evakaiing/taskbot) - Telegram-бот для работы с задачами
 - [SpamFilter Pipeline](https://github.com/evakaiing/spammer) - распределённая обработка писем через конвейерную архитектуру
 
-
 ### Цель
 
 Получить опыт на стажировке в backend-разработке и продолжить развиваться через практику в реальных проектах.
 
-### Связаться со мной
+### Контакты и резюме
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/87e44626ff0fbbfd4e0039ed1f4d674b6a4e72)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/evakaiing/resume/blob/main/Eva_Zaitova_Go_developer.pdf)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evakaiing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaitovaeva@mail.ru)
