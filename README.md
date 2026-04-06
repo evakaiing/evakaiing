@@ -1,10 +1,6 @@
 ## Привет! 👋
 
-Я - студентка **МАИ** 3 курса, направление Прикладная математика и информатика.
-
-Сейчас прохожу обучение:
-- **Школа 21** - ветка Backend-разработка
-- **Курс VK** - "Разработка веб-сервисов на Golang"
+Я - студентка **МАИ** 3 курса, направление Прикладная математика и информатика, стажер Backend-разработчик в Сбертехе и пир Школы 21 в ветке Backend-разработка!
 
 ### Стек
 
@@ -15,12 +11,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Сейчас изучаю
-
-- Базы данных
-- Архитектуру веб-сервисов на Go
-- REST API и микросервисы
-- CI/CD
 
 ### Проекты
 - [PR Reviewer Assigment Service](https://github.com/evakaiing/PR-Reviewer-Assignment-Service) - cервис автоматического назначения ревьюверов
@@ -29,10 +19,6 @@
 - [SearchService](https://github.com/evakaiing/search_service) - REST API для поиска и фильтрации пользователей. 
 - [Taskbot](https://github.com/evakaiing/taskbot) - Telegram-бот для работы с задачами
 - [SpamFilter Pipeline](https://github.com/evakaiing/spammer) - распределённая обработка писем через конвейерную архитектуру
-
-### Цель
-
-Получить опыт на стажировке в backend-разработке и продолжить развиваться через практику в реальных проектах.
 
 ### Резюме и контакты
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/87e44626ff0fbbfd4e0039ed1f4d674b6a4e72)
